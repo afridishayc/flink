@@ -1,0 +1,25 @@
+*{
+	background-color: white;
+}
+body{
+	padding: 0px;
+	height: auto;	
+}
+nav{
+	background-color: green;
+}
+#box{
+	width:200px;
+	text-align: center;	
+	margin: 20px;
+	clear: both;
+
+}
+#infoBox{
+	margin: 20px;
+	text-align: right;
+}
+#goFlick{
+	padding: 10px;
+	font-size: 150%
+}
